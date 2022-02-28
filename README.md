@@ -8,7 +8,7 @@ Go follow these legends, they helped making this guide what it is today
 
 ## Run nvbase.sh
 ```
- 
+ bash ./nvbase.sh
 ```
 ## The steps (part 1)
 Set root password
